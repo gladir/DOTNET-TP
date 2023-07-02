@@ -12,7 +12,7 @@ Voici la liste des différents fichiers proposés dans DOTNET-TP :
 		</tr>
     <tr>
         <td>DOTNET</td>
-        <td>Cette unité contient les classes de base du cadre d'application .NET</td>
+        <td>Cette unité contient les classes de base du cadre d'application .NET (contient les classes Console, Math,...)</td>
     </tr>
 </table>
 
